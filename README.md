@@ -31,7 +31,7 @@ Before you begin, ensure you have:
 
 3. Make Changes:
 
-Edit or add files as needed.
+- Edit or add files as needed.
 
 4. Stage Changes:
 
@@ -50,15 +50,15 @@ Edit or add files as needed.
 
 7. Create a Pull Request:
 
-Navigate to your repository on GitHub and click on "Compare & pull request."
+- Navigate to your repository on GitHub and click on "Compare & pull request."
 
 📚 Learn More
 
 For a deeper understanding of Git, consider exploring:
 
-   Pro Git Book
+- Pro Git Book
 
-   GitHub Learning Lab
+- GitHub Learning Lab
 
 🤝 Contributing
 
